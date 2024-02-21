@@ -1,7 +1,7 @@
 import { FiDollarSign} from "react-icons/fi";
 import { RxStopwatch } from "react-icons/rx";
 
-const Course = ({course}) => {
+const Course = ({course, handleSelectCourse}) => {
     console.log(course);
     const {title,description, img, price, credit} = course;
     return (
@@ -20,7 +20,7 @@ const Course = ({course}) => {
                 </div>
             </div>
             <div className="">
-                <button className="w-full border bg-blue-500 text-center rounded-lg py-1 text-white">Select</button>
+                <button onClick={()=>handleSelectCourse(course)} className="w-full border bg-blue-500 text-center rounded-lg py-1 text-white">Select</button>
             </div>
         </div>
     );
