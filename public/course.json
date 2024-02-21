@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.postimg.cc/RZ5hBF0V/C-Programming.png",
+    "title": "Introduction to C Programming",
+    "description": "Learn the basics of C programming language from scratch. Covering variables, control flow, functions, and memory management.",
+    "price": 49.99,
+    "credit": 3,
+    "course_name": "C Programming",
+    "headline": "C Programming"
+  },
+  {
+    "id": 2,
+    "img": "https://i.postimg.cc/gchrB8YB/Rectangle-2-3.png",
+    "title": "Introduction to Algorithm",
+    "description": "Master the art of designing and analyzing algorithms. Explore sorting, searching, and graph algorithms with real-world examples.",
+    "price": 69.99,
+    "credit": 4,
+    "course_name": "Algorithm",
+    "headline": "Algorithm"
+  },
+  {
+    "id": 3,
+    "img": "https://i.postimg.cc/MH5Cr9XQ/Rectangle-2-4.png",
+    "title": "Introduction to C++ for DSA",
+    "description": "Utilize C++ for implementing efficient data structures and algorithms. Covers object-oriented concepts, templates, and STL.",
+    "price": 79.99,
+    "credit": 5,
+    "course_name": "C++ for DSA",
+    "headline": "C++ for DSA"
+  },
+  {
+    "id": 4,
+    "img": "https://i.postimg.cc/tCmfZZ6p/Rectangle-3.png",
+    "title": "Basic Data Structures",
+    "description": "Explore various data structures and their applications. Includes arrays, linked lists, trees, and hash tables with practical exercises.",
+    "price": 59.99,
+    "credit": 3,
+    "course_name": "Data Structures",
+    "headline": "Data Structures"
+  },
+  {
+    "id": 5,
+    "img": "https://i.postimg.cc/9Q7xDxVY/Rectangle-2.png",
+    "title": "Introduction to OOP Python",
+    "description": "Learn object-oriented programming principles using Python. Dive into classes, inheritance, polymorphism, and design patterns.",
+    "price": 64.99,
+    "credit": 4,
+    "course_name": "OOP Python",
+    "headline": "OOP Python"
+  },
+  {
+    "id": 6,
+    "img": "https://i.postimg.cc/2SRQKCRn/Rectangle-2-5.png",
+    "title": "Software Engineering",
+    "description": "Understand the principles and practices of software engineering. Covers requirements engineering, software design, and testing methodologies.",
+    "price": 89.99,
+    "credit": 6,
+    "course_name": "Software Engineering",
+    "headline": "Software Engineering"
+  },
+  {
+    "id": 7,
+    "img": "https://i.postimg.cc/ZRGPzmvk/Rectangle-3-1.png",
+    "title": "AWS Cloud Computing",
+    "description": "Get hands-on experience with Amazon Web Services (AWS) cloud computing. Covers EC2, S3, Lambda, and deployment strategies.",
+    "price": 99.99,
+    "credit": 6,
+    "course_name": "AWS Cloud Computing",
+    "headline": "AWS Cloud Computing"
+  },
+  {
+    "id": 8,
+    "img": "https://i.postimg.cc/jqhCbK7z/Rectangle-2-1.png",
+    "title": "Database (MySQL)",
+    "description": "Learn database management with MySQL. Covers SQL basics, database design, normalization, and transactions.",
+    "price": 74.99,
+    "credit": 5,
+    "course_name": "Database (MySQL)",
+    "headline": "Database (MySQL)"
+  },
+  {
+    "id": 9,
+    "img": "https://i.postimg.cc/y8CVgbcV/Rectangle-2-6.png",
+    "title": "Problem Solving Part",
+    "description": "Sharpen your problem-solving skills through practice and techniques. Learn problem-solving strategies, algorithms, and optimization techniques.",
+    "price": 79.99,
+    "credit": 4,
+    "course_name": "Problem Solving Part",
+    "headline": "Problem Solving Part"
+  }
+]

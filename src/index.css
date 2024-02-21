@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  font-family:  "Anta", sans-seri ;
+  background: rgb(240, 239, 239) ;
+}
