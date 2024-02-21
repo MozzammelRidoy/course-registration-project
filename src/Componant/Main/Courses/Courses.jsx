@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import { useState } from "react";
 import Course from "../Courrse/Course";
+import PropTypes from 'prop-types';
 
 const Courses = ({handleSelectCourse}) => {
     const [courses, setCourses] = useState([]); 
@@ -19,5 +20,9 @@ const Courses = ({handleSelectCourse}) => {
         </div>
     );
 };
+
+Courses.propTypes ={
+    handleSelectCourse: PropTypes.func
+}
 
 export default Courses;
